@@ -13,7 +13,7 @@ function App() {
         <Dictionary />
       </main>
       <footer>
-        <small>Coded by Sandra Lima
+        <small>Coded by Sandra Lima <a href="https://github.com/SandraLima2813/dictionary-app.git"> and open source on GitHub.</a>
         </small>
         </footer>
       </div>
