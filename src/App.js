@@ -1,4 +1,5 @@
 
+import { logDOM } from '@testing-library/dom';
 import './App.css';
 import Dictionary from "./Dictionary";
 
@@ -7,7 +8,8 @@ function App() {
     <div className="App">
       <div className= "container">
       <header className="App-header">
-   <h1>Welcome to the Dictionary!</h1>
+   <h1>What is the word?</h1>
+  
       </header>
       <main> 
         <Dictionary defaultKeyword ="bulldog" />
