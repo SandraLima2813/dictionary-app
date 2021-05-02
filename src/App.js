@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <div className= "container">
       <header className="App-header">
-   <h1>What is the word?</h1>
+   <h1>What does it mean??</h1>
   
       </header>
       <main> 
