@@ -1,5 +1,4 @@
 
-import { logDOM } from '@testing-library/dom';
 import './App.css';
 import Dictionary from "./Dictionary";
 
